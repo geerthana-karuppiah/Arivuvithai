@@ -59,7 +59,7 @@ export default function HomePage({
         <div className="mb-12 bg-[#faf6ed] border-4 border-[#6d4c41] rounded-lg p-6 shadow-xl">
           <div className="flex justify-between items-center mb-3">
             <span className="text-sm text-[#3e2723]">
-              Learning Journey
+              Learning journey progress
             </span>
 
             <span className="text-sm text-[#6d4c41] font-serif">
